@@ -1,3 +1,4 @@
+// Set var showCards to access the button
 var showCards = document.getElementById("cards");
 
 showCards.onclick = function(){
